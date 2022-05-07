@@ -1,0 +1,19 @@
+import {createGlobalStyle} from 'styled-components'
+
+
+
+export const GlobalStyles = createGlobalStyle`
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+:root{
+    --font-popis: 'Poppins', sans-serif;
+    --font-fira: 'Fira Sans', sans-serif;
+    --font-bebas: 'Bebas Neue', cursive;
+}
+`

@@ -1,0 +1,22 @@
+<svg width="76" height="76" viewBox="0 0 76 76" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M1.29289 38.7071C0.902367 38.3166 0.902367 37.6834 1.29289 37.2929L37.2929 1.29289C37.4804 1.10536 37.7348 1 38 1C38.2652 1 38.5196 1.10536 38.7071 1.29289L74.7071 37.2929C74.8946 37.4804 75 37.7348 75 38C75 38.2652 74.8946 38.5196 74.7071 38.7071L38.7071 74.7071C38.3166 75.0976 37.6834 75.0976 37.2929 74.7071L1.29289 38.7071Z" fill="#FF6480" stroke="#60050F" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="48" cy="47" r="1" fill="#D15151"/>
+<circle cx="48" cy="51" r="1" fill="#D15151"/>
+<circle cx="44" cy="55" r="1" fill="#D15151"/>
+<circle cx="41" cy="59" r="1" fill="#D15151"/>
+<circle cx="43" cy="44" r="1" fill="#D15151"/>
+<circle cx="53" cy="41" r="1" fill="#D15151"/>
+<circle cx="47.5" cy="41.5" r="1.5" fill="#D15151"/>
+<circle cx="43.5" cy="50.5" r="1.5" fill="#D15151"/>
+<path d="M2 38L38 2L74 38L2 38Z" fill="#FF8298"/>
+<path d="M37.5 7L24 36" stroke="#FFADBC" stroke-width="2" stroke-linecap="round"/>
+<path d="M20 38L38 74L1.99999 38L38 2L20 38Z" fill="#EE8BBB"/>
+<path d="M9.99999 38L38 74L1.99999 38L38 2L9.99999 38Z" fill="#FF9BAD"/>
+<path d="M20 38L38 2L1.99999 38L20 38Z" fill="#FFABD3"/>
+<path d="M9.99999 38L38 2L1.99999 38L9.99999 38Z" fill="#FFC6D0"/>
+<path d="M56 38L38 74L74 38L38 2L56 38Z" fill="#AC2F6B"/>
+<path d="M56 38L38 2L74 38L56 38Z" fill="#C64683"/>
+<path d="M66 38L38 74L74 38L38 2L66 38Z" fill="#D74E67"/>
+<path d="M66 38L38 2L74 38L66 38Z" fill="#EB5D76"/>
+<path d="M21 21L7 36" stroke="#FFEFF2" stroke-width="2" stroke-linecap="round"/>
+</svg>
