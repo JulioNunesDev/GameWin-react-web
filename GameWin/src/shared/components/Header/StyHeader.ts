@@ -25,7 +25,7 @@ background-position-y: center;
         justify-content: center;
         align-items: center;
         background-color: transparent;
-        cursor: cell;
+        cursor: pointer;
         color: #fff;
         
         

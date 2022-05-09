@@ -4,10 +4,13 @@ import esmeralda from '../../../assets/sprites/esmeralda.svg'
 import barraGold from '../../../assets/sprites/barraGold.svg'
 import moeda from '../../../assets/sprites/moeda.svg'
 import useBank from "../../../hooks/useBank";
+import { useEffect, useState } from "react";
 
 
 export default function Header() {
-  const {goldCount, moedaCount, esmeraldaCount} = useBank()
+  const {goldCount, moedaCount, esmeraldaCount, modalClose} = useBank()
+
+
   return (
     <Base>
       <div className="itens">
@@ -21,8 +24,8 @@ export default function Header() {
         <img className="moeda" src={moeda} alt="Logo Moeda" />
         <span className="moedaSpan">{moedaCount}M</span>
 
-        </div>
-        <button><IoSettingsOutline /></button>
+        </div >
+        <button onClick={modalClose}><IoSettingsOutline  /></button>
         </div>
     </Base>
   )

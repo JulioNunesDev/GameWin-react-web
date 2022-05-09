@@ -7,7 +7,6 @@ height: 710px;
 background-position: center;
 z-index: 1;
 background-repeat: no-repeat;
-background-color: cadetblue;
 display: flex;
 justify-content: center;
 align-items: center;

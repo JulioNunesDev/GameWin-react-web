@@ -18,9 +18,17 @@ export const GlobalStyle = createGlobalStyle`
         --font-noto: 'Noto Sans', sans-serif;
         --font-popis: 'Poppins', sans-serif;
         --font-secular: 'Secular One', sans-serif;
+
+        --color-primary: #FFAE02;
     }
 
 }
 
+.effect-orange{
+            color: #FFAE02;
+        }
 
+        .effect-beg{
+            color: #9002FF;
+        }
 `
