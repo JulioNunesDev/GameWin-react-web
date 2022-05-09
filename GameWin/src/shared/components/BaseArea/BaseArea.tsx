@@ -1,6 +1,7 @@
 import React from 'react'
 import Header from '../Header/Header'
-import { Base, BaseHeader } from './StyBaseArea'
+import Perguntas from '../perguntas/Perguntas'
+import { Base, BaseHeader,BaseMainContent } from './StyBaseArea'
 
 export default function BaseArea() {
   return (
@@ -8,6 +9,9 @@ export default function BaseArea() {
     <BaseHeader>
         <Header />
     </BaseHeader>
+    <BaseMainContent>
+    <Perguntas />
+    </BaseMainContent>
     </Base>
   )
 }
